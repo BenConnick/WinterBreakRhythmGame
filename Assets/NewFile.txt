@@ -1,0 +1,7 @@
+﻿TODO
+
+refactor beatmap file format to store individual tracks rather than mixed tracks
+
+create an intermediate represenation of the danmu visuals,
+
+this is similar to what the player sees, but the player visuals should also be derived from this, not the other way around
